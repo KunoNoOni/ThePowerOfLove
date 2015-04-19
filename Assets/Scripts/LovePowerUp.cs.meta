@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ec1ee9107fcacb24999aced65c76da3e
+timeCreated: 1429462861
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Player: {instanceID: 0}
+  - loveEffect: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
